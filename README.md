@@ -11,4 +11,7 @@ for mapping.
 
 ## Websites & blogs
 
+* **50° North** - GIS blog from Ukraine
+  * http://50northspatial.org
+
 ## GIS and other mapping software
