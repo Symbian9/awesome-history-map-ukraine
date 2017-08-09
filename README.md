@@ -9,6 +9,10 @@ for mapping.
 
 ## Ukrainian mappers
 
+### Dmytro Vortman
+
+* [Dmytro Vortman on Likbez](http://likbez.org.ua/ua/author/vortman)
+
 ## Websites & blogs
 
 * [50° North](http://50northspatial.org) - GIS blog from Ukraine
