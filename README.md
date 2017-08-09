@@ -9,4 +9,6 @@ for mapping.
 
 ## Ukrainian mappers
 
+## Websites & blogs
+
 ## GIS and other mapping software
