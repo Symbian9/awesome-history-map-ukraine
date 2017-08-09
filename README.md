@@ -3,7 +3,7 @@
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop
 for mapping.
 
-[TOC]
+[[TOC]]
 
 ## Maps of Ukraine
 
