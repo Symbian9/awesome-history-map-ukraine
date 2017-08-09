@@ -5,7 +5,11 @@
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop
 for mapping.
 
-[[toc]]
+## Table of Contents
+- [Maps of Ukraine](#maps-of-ukraine)
+- [Ukrainian mappers](#ukrainian-mappers)
+- [Websites and blogs](#websites-and-blogs)
+- [GIS and other mapping software](#gis-and-other-mapping-software)
 ***
 ## Maps of Ukraine
 
@@ -15,7 +19,7 @@ for mapping.
 
 * [Dmytro Vortman on Likbez](http://likbez.org.ua/ua/author/vortman)
 
-## Websites & blogs
+## Websites and blogs
 
 * [50° North](http://50northspatial.org) - GIS blog from Ukraine
 
