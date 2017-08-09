@@ -1,5 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+
 ***
+
 # awesome-maps-ukraine
 
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop for creating and publish maps.
