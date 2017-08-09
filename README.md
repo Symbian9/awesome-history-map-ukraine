@@ -11,10 +11,8 @@ for mapping.
 
 ## Websites & blogs
 
-* **50° North** - GIS blog from Ukraine
-  * http://50northspatial.org
+* [50° North](http://50northspatial.org) - GIS blog from Ukraine
 
 ## GIS and other mapping software
 
-* **OpenOrienteering Mapper** - a free software for drawing orienteering maps
-  * http://openorienteering.org/apps/mapper
+* [OpenOrienteering Mapper](http://openorienteering.org/apps/mapper) - a free software for drawing orienteering maps
