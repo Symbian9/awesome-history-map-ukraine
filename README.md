@@ -5,6 +5,8 @@
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop
 for mapping.
 
+[Get it now in PDF format!](https://gitprint.com/Symbian9/awesome-maps-ukraine/edit/master/README.md)
+
 ## Table of Contents
 - [Maps of Ukraine](#maps-of-ukraine)
 - [Ukrainian mappers](#ukrainian-mappers)
