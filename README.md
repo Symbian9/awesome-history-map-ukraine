@@ -15,3 +15,6 @@ for mapping.
   * http://50northspatial.org
 
 ## GIS and other mapping software
+
+* **OpenOrienteering Mapper** - a free software for drawing orienteering maps
+  * http://openorienteering.org/apps/mapper
