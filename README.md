@@ -16,6 +16,10 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## Maps of Ukraine
 
+### General maps of Ukraine
+
+* [ukraine_map_data](https://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
+
 ### Euromaidan (21 November 2013 — 22 February 2014)
 
 * [Three days before spring](https://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda)
