@@ -22,6 +22,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 * [Dmytro Vortman on Likbez](http://likbez.org.ua/ua/author/vortman)
 
+### Orest Kotylo
+
 ## Websites and blogs
 
 * [50° North](http://50northspatial.org) - GIS blog from Ukraine
