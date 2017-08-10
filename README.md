@@ -35,6 +35,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 * [50° North](http://50northspatial.org) - GIS blog from Ukraine
 * [KartSothya](http://kartsotnya.com.ua) - ГО "Картографічна сотня"
+* [OpenStreetMap Ukraine](http://openstreetmap.org.ua) - Ukrainian OSM Community
 
 ## GIS and other mapping software
 
