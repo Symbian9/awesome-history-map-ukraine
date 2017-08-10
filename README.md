@@ -16,6 +16,10 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## Maps of Ukraine
 
+### ATO (2014 - ...)
+
+* [ATO-progress](https://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine.
+
 ## Ukrainian mappers
 
 ### Dmytro Vortman
