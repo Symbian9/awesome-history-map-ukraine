@@ -16,6 +16,10 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## Maps of Ukraine
 
+### Euromaidan
+
+* [Three days before spring](https://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda)
+
 ### ATO (2014 - ...)
 
 * [ATO-progress](https://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine.
