@@ -20,9 +20,12 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### Dmytro Vortman
 
-* [Dmytro Vortman on Likbez](http://likbez.org.ua/ua/author/vortman)
+* [Dmytro Vortman @ Likbez](http://likbez.org.ua/ua/author/vortman)
 
 ### Orest Kotylo
+
+* [Orest Kotylo @ WorldCat](http://www.worldcat.org/identities/viaf-305501675/)
+* [Orest Kotylo @ Orienteering in Lviv](http://orient.lviv.ua/cart1.php)
 
 ## Websites and blogs
 
