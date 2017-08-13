@@ -34,6 +34,11 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 * [Dmytro Vortman @ Likbez](http://likbez.org.ua/ua/author/vortman)
 
+### Andrey Golovin
+
+* [Andrey Golovin @ Mapbox](https://www.mapbox.com/about/team/andrey-golovin/)
+* [Andrey Golovin @ 50° North](http://www.50northspatial.org/andrey-golovin-becoming-legendary-mapper/)
+
 ### Orest Kotylo
 
 * [Orest Kotylo @ WorldCat](http://www.worldcat.org/identities/viaf-305501675/)
