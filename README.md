@@ -52,6 +52,9 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## GIS and other mapping software
 
+* [OpenStreetMap](http://openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+  * [OpenStreetMap Ukraine @ Facebook](http://facebook.com/openstreetmapua)
+  * [OpenStreetMap Ukraine @ Twitter](https://twitter.com/osm_ua)
 * [OpenOrienteering Mapper](http://openorienteering.org/apps/mapper) - a free software for drawing orienteering maps.
   * [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 * [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
