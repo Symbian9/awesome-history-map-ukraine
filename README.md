@@ -53,7 +53,9 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ## GIS and other mapping software
 
 * [OpenOrienteering Mapper](http://openorienteering.org/apps/mapper) - a free software for drawing orienteering maps.
+  * [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 * [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
+  * [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
 
 
 ## License
