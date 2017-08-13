@@ -18,15 +18,16 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### General maps of Ukraine
 
-* [ukraine_map_data](https://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
+* [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
+* 
 
 ### Euromaidan (21 November 2013 — 22 February 2014)
 
-* [Three days before spring](https://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda)
+* [Three days before spring](http://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda)
 
 ### ATO (2014 - ...)
 
-* [ATO-progress](https://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine.
+* [ATO-progress](http://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine.
 
 ## Ukrainian mappers
 
@@ -36,7 +37,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### Andrey Golovin
 
-* [Andrey Golovin @ Mapbox](https://www.mapbox.com/about/team/andrey-golovin/)
+* [Andrey Golovin @ Mapbox](http://www.mapbox.com/about/team/andrey-golovin/)
 * [Andrey Golovin @ 50° North](http://www.50northspatial.org/andrey-golovin-becoming-legendary-mapper/)
 
 ### Orest Kotylo
@@ -47,12 +48,14 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ## Websites and blogs
 
 * [50° North](http://50northspatial.org) - GIS blog from Ukraine
+* [OSGeo Lab Ukraine](http://lab.osgeo.org.ua) - Дослідницько-освітня лабораторія OSGeo КНУ
+  * [OSGeo Lab Ukraine @ Facebook](http://facebook.com/lab.osgeo.ua/)
 * [KartSothya](http://kartsotnya.com.ua) - ГО "Картографічна сотня"
-* [OpenStreetMap Ukraine](http://openstreetmap.org.ua) - Ukrainian OSM Community
 
 ## GIS and other mapping software
 
 * [OpenStreetMap](http://openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+  * [OpenStreetMap Ukraine](http://openstreetmap.org.ua) - official website
   * [OpenStreetMap Ukraine @ Facebook](http://facebook.com/openstreetmapua)
   * [OpenStreetMap Ukraine @ Twitter](https://twitter.com/osm_ua)
 * [OpenOrienteering Mapper](http://openorienteering.org/apps/mapper) - a free software for drawing orienteering maps.
