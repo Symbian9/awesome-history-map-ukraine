@@ -48,6 +48,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 * [Orest Kotylo @ WorldCat](http://www.worldcat.org/identities/viaf-305501675/)
 * [Orest Kotylo @ Orienteering in Lviv](http://orient.lviv.ua/cart1.php)
 
+***
+
 ## Websites and blogs
 
 * [50° North](http://50northspatial.org) - GIS blog from Ukraine
