@@ -12,6 +12,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Websites and blogs](#websites-and-blogs)
 - [GIS and other mapping software](#gis-and-other-mapping-software)
 
+***
+
 ## Maps of Ukraine
 
 ### General maps of Ukraine
@@ -27,6 +29,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 * [ATO-progress](http://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine (source: http://rnbo.gov.ua/ )
 * [ato-map](https://github.com/xainse/ato-map) - Gallery of ATO from Ukrainian RNBO (source: http://www.rnbo.gov.ua/ )
   * [Live site](http://ato-map.xain.in.ua/)
+
+***
 
 ## Ukrainian mappers
 
@@ -51,6 +55,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   * [OSGeo Lab Ukraine @ Facebook](http://facebook.com/lab.osgeo.ua/)
 * [KartSothya](http://kartsotnya.com.ua) - ГО "Картографічна сотня"
 
+***
+
 ## GIS and other mapping software
 
 * [OpenStreetMap](http://openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
@@ -62,6 +68,13 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 * [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   * [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
 
+***
+
+## REFERENCE
+
+* [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc
+
+***
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
