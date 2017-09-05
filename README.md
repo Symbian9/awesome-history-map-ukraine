@@ -19,7 +19,6 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ### General maps of Ukraine
 
 * [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
-* 
 
 ### Euromaidan (21 November 2013 — 22 February 2014)
 
@@ -27,7 +26,9 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### ATO (2014 - ...)
 
-* [ATO-progress](http://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine.
+* [ATO-progress](http://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine (source: http://rnbo.gov.ua/ 
+* [ato-map](https://github.com/xainse/ato-map) - Gallery of ATO from Ukrainian RNBO (source: http://www.rnbo.gov.ua/ )
+  * [Live site](http://ato-map.xain.in.ua/)
 
 ## Ukrainian mappers
 
