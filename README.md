@@ -78,7 +78,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### Publications, magazines and journals
 
-- ["Де починаються і закінчуються населені пункти", 2018-03-14](http://brdo.com.ua/news/de-pochynayutsya-zakinchuyutsya-naseleni-punkty/) - Офіс ефективного регулювання.
+- 2018
+  - ["Де починаються і закінчуються населені пункти"](http://brdo.com.ua/news/de-pochynayutsya-zakinchuyutsya-naseleni-punkty/) - [Офіс ефективного регулювання](http://brdo.com.ua).
 
 ### Books
 
@@ -95,7 +96,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [KartSothya](http://kartsotnya.com.ua) - ГО "Картографічна сотня"
 - [MadeInUkraine.org](https://madeinua.org/) - Зроблено в Україні, каталог українських виробників.
   - [MadeInUkraine.org/Catalog](https://madeinua.org/catalog/) - Каталог українських виробників споживчих товарів.
-- *sdelanoVukraine* - news about all Made in Ukraine (ukr. Зроблено в Україні).
+- *sdelanoVukraine* - news about all things made in Ukraine (ukr. Зроблено в Україні).
   - [Зроблено в Україні @ Twitter](https://twitter.com/sdelanoVukraine)
   - [Зроблено в Україні @ Facebook](https://www.facebook.com/sdelanoVukraine/)
 ***
@@ -110,6 +111,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 - [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   - [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
+- [Map-ULAF](https://github.com/Woodyss/Map-ULAF) -  Map with the Ukrainian teams in American Football for ULAF.
 - [findlostanimals](https://github.com/nVitaliy/findlostanimals) - project for finding lost animals in Ukraine.
 
 ***
