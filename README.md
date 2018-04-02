@@ -33,7 +33,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Map of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/en/karta) - official (in English)
   - [Карта адміністративно-територіального устрою України](http://atu.minregion.gov.ua/ua/karta) - офіційна (in Ukrainian) 
 - [Public cadastral map](http://map.land.gov.ua/kadastrova-karta) - Публічна кадастрова карта України. Відомості та витяги про земельні ділянки.
-- [State Classifier of objects of administrative and territorial structure of Ukraine (KOATUU)] - Державний класифікатор об'єктів адміністративно-територіального устрою України (КОАТУУ)
+- [State Classifier of objects of administrative and territorial structure of Ukraine (KOATUU)](http://www.ukrstat.gov.ua/klasf/st_kls_2016.htm) - Державний класифікатор об'єктів адміністративно-територіального устрою України (КОАТУУ)
   - [KOATUU.zip](http://www.ukrstat.gov.ua/klasf/st_kls/koatuu.zip) - official raw data.
   - [koatuu](https://github.com/sokil/koatuu) - Конвертор бази класифікатора КОАТУУ в SQL.
 - [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city (captal of Ukraine) expansion.
