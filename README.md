@@ -50,7 +50,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
     - [3g_ua](http://3g.19min.com) (demonstration site)
 - [Rename.kr.ua](http://rename.kr.ua/) - Нові назви вулиць в м.Кропивницкий  (до 2015 року - м.Кіровоград).
   - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
-- [births](https://github.com/andriy-gazin/births) - Births by month in Ukraine, 1980-2014.
+- [births](https://github.com/andriy-gazin/births) - births by month in Ukraine, 1980-2014.
+- [marriages](https://github.com/andriy-gazin/marriages) - mean & median age of first marriage in Ukraine by region and sex.
 
 ### World Maps in Ukrainian
 - [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
@@ -59,6 +60,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 - [Three days before spring](http://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda.org).
 - [protest-network-UA](https://github.com/DukachY/protest-network-UA) - Network analysis of protest co-participation in Ukraine, 2011-2013.
+- [LaSNe](https://github.com/christaina/LaSNe) - Visualizing social networks on Twitter of the beginning of the Ukraine crisis
+  - [LaSNe](https://christaina.github.io/LaSNe/) - (visualization)
 
 ### ATO (2014 - ...)
 
@@ -117,7 +120,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-## GIS and other mapping software
+## GIS and other Mapping Software
 
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - a curated list of GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 - [OpenStreetMap](http://openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
@@ -128,6 +131,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 - [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   - [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
+- [cities-translator](https://github.com/KostiantynM/cities-translator) - translate Ukraine places DB (regions, districts, cities).
 - [UkraineMap](https://github.com/dimonchik-com/UkraineMap) - Ukraine map create with help Adobe Flash.
 - [Map-ULAF](https://github.com/Woodyss/Map-ULAF) -  Map with the Ukrainian teams in American Football for ULAF.
 - [findlostanimals](https://github.com/nVitaliy/findlostanimals) - project for finding lost animals in Ukraine.
@@ -139,7 +143,9 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
 - [Ukraine-infosec-conferences](https://github.com/sapran/Ukraine-infosec-conferences) - Анонси, програми та архів матеріалів українських конференцій з кібер-безпеки.
 - [ukraine-identification-number](https://github.com/iiifx-production/ukraine-identification-number) - ідентифікаційний номер платника податків України. Парсер і генератор ІНПП.
+- [translit-ua](https://github.com/dchaplinsky/translit-ua) - Transliteration for ukrainian language that uses officialy approved rules 
 - [RadioInUA](https://github.com/DmytroRybalko/RadioInUA) - Analysis of radio stations playlists in Ukraine.
+- [uaddresses.web](https://github.com/edenlabllc/uaddresses.web) - Admin portal of UAddresses. 
 
 ***
 
