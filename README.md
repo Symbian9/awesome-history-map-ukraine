@@ -39,7 +39,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city (captal of Ukraine) expansion.
   - [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
 - [Map with visa-free countries for ukrainians](http://travel-away.pp.ua/) - Безвізові країни для українців
-  - https://github.com/s0ph1e/travel-from-ukraine] - source repository; base map from Google, data from Ministry of Foreign Affairs of Ukraine.
+  - [travel-from-ukraine](https://github.com/s0ph1e/travel-from-ukraine) - source repository; base map from Google, data from Ministry of Foreign Affairs of Ukraine.
 
 ### GIS Data of Ukraine
 
