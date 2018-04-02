@@ -8,7 +8,9 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## DONATE!
 
-**Bitcoin wallet (BTC):** `1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
+**Bitcoin wallet (BTC)**
+
+`1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
 
 ## Table of Contents
 - [Maps of Ukraine](#maps-of-ukraine)
@@ -140,7 +142,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## REFERENCES
 
-- [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
+- [x] [made-in-ukraine](https://github.com/IonicaBizau/made-in-ukraine) - a list of neat projects made in Ukraine (programming)
+- [x] [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
 - [Ukraine-infosec-conferences](https://github.com/sapran/Ukraine-infosec-conferences) - Анонси, програми та архів матеріалів українських конференцій з кібер-безпеки.
 - [ukraine-identification-number](https://github.com/iiifx-production/ukraine-identification-number) - ідентифікаційний номер платника податків України. Парсер і генератор ІНПП.
 - [translit-ua](https://github.com/dchaplinsky/translit-ua) - Transliteration for ukrainian language that uses officialy approved rules 
