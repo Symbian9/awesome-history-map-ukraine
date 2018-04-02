@@ -6,15 +6,23 @@
 
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop for creating and publish maps.
 
+## DONATE!
+
+**Bitcoin wallet (BTC):** `1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
+
 ## Table of Contents
 - [Maps of Ukraine](#maps-of-ukraine)
   - [General maps of Ukraine](#general-maps-of-ukraine)
   - [GIS Data of Ukraine](#gis-data-of-ukraine)
   - [World maps in Ukrainian](#world-maps-in-ukrainian)
 - [Ukrainian mappers](#ukrainian-mappers)
+- [Conferences and meetings](#conferences-and-meetings)
+- [Publications](#publications)
+- [Books and journals](#books-and-journals)
 - [Websites and blogs](#websites-and-blogs)
 - [GIS and other mapping software](#gis-and-other-mapping-software)
 - [REFERENCES](#references)
+- [LICENSE](#license)
 
 ***
 
@@ -72,20 +80,21 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-### Conferences and meetings
+## Conferences and meetings
 
-- [workshop2018](https://github.com/djhurio/workshop2018) - website for the Workshop of Baltic-Nordic-Ukrainian Network on Survey Statistics 2018.
+- **2018** 
+ - [workshop2018](https://github.com/djhurio/workshop2018) - website for the Workshop of Baltic-Nordic-Ukrainian Network on Survey Statistics 2018.
 
-### Publications, magazines and journals
+## Publications
 
-- 2018
+- **2018**
   - ["Де починаються і закінчуються населені пункти"](http://brdo.com.ua/news/de-pochynayutsya-zakinchuyutsya-naseleni-punkty/) - [Офіс ефективного регулювання](http://brdo.com.ua).
 
-### Books
+## Books and journals
 
 - [DataAnalysisBook](https://github.com/energyfirefox/DataAnalysisBook) - Practical data analysis book. Language: Ukrainian. Raw draft.
 
-### Websites and blogs
+## Websites and blogs
 
 - [Geoportal of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/ua/home) - офіційний Геопортал адміністративно-територіального устрою України.
 - [Geoportal "Hromada"](https://otg.land.gov.ua/) - офіційний Геопортал "Громада" присвячений тематиці ОТГ (окрема територіальна громада).
@@ -99,10 +108,12 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - *sdelanoVukraine* - news about all things made in Ukraine (ukr. Зроблено в Україні).
   - [Зроблено в Україні @ Twitter](https://twitter.com/sdelanoVukraine)
   - [Зроблено в Україні @ Facebook](https://www.facebook.com/sdelanoVukraine/)
+
 ***
 
 ## GIS and other mapping software
 
+- [awesome-gis](https://github.com/sshuair/awesome-gis) - a curated list of GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 - [OpenStreetMap](http://openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
   - [OpenStreetMap Ukraine](http://openstreetmap.org.ua) - official website
   - [OpenStreetMap Ukraine @ Facebook](http://facebook.com/openstreetmapua)
@@ -118,7 +129,6 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## REFERENCES
 
-- [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 - [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
 - [Ukraine-infosec-conferences](https://github.com/sapran/Ukraine-infosec-conferences) - Анонси, програми та архів матеріалів українських конференцій з кібер-безпеки.
 - [ukraine-identification-number](https://github.com/iiifx-production/ukraine-identification-number) - ідентифікаційний номер платника податків України. Парсер і генератор ІНПП.
@@ -126,5 +136,5 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-## License
+## LICENSE
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
