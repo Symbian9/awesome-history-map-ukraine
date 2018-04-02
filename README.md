@@ -14,6 +14,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Ukrainian mappers](#ukrainian-mappers)
 - [Websites and blogs](#websites-and-blogs)
 - [GIS and other mapping software](#gis-and-other-mapping-software)
+- [REFERENCES](#references)
 
 ***
 
@@ -86,9 +87,10 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-## REFERENCE
+## REFERENCES
 
-- [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc
+- [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
+- [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
 ***
 
