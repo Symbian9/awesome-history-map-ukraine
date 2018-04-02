@@ -57,8 +57,11 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [POI_Ukraine](https://github.com/pasharm/POI_Ukraine) - Tagging preset for Ukrainian shops and amenities for *JOSM*.
 - [UkraineCities](https://github.com/rlazoryshchak/UkraineCities) - List of Ukraine raions.
 - [novaposhtasettlements](https://github.com/andriy063/novaposhtasettlements) - Ukrainian settlements database.
+- [ukrainian-addresses](https://github.com/RomixUA/ukrainian-addresses) - Provided Ukrainian addresses
+  - [Ukrainian Addresses](https://ukrposhta.ua/dovidnik-poshtovix-adre/opis) - official source (from "UkrPoshta")
 - [Privatization-in-Ukraine.-1992-2015](https://github.com/i2alex/Privatization-in-Ukraine.-1992-2015) - Аналіз результатів приватизаційних процесів в Україні за період 1992-2015 років.
 - [reach-ukr-web-maps](https://github.com/impact-initiatives/reach-ukr-web-maps) - Online interactive map displaying educational facilities in Donbas region of Ukraine.
+- [Gas-flow-standards](https://github.com/slavkoBV/Gas-flow-standards) - Data base of gas flow standards of Ukraine 
 
 ### World Maps in Ukrainian
 - [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
@@ -146,6 +149,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [UkraineMap](https://github.com/dimonchik-com/UkraineMap) - Ukraine map create with help Adobe Flash.
 - [Map-ULAF](https://github.com/Woodyss/Map-ULAF) -  Map with the Ukrainian teams in American Football for ULAF.
 - [findlostanimals](https://github.com/nVitaliy/findlostanimals) - project for finding lost animals in Ukraine.
+- [WeatherForecast](https://github.com/RomanTourdyiev/WeatherForecast) -  WeatherApi demo for Ukraine (AsyncTask + JSON).
 
 ***
 
