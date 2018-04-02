@@ -80,6 +80,10 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 - ["Де починаються і закінчуються населені пункти", 2018-03-14](http://brdo.com.ua/news/de-pochynayutsya-zakinchuyutsya-naseleni-punkty/) - Офіс ефективного регулювання.
 
+### Books
+
+- [DataAnalysisBook](https://github.com/energyfirefox/DataAnalysisBook) - Practical data analysis book. Language: Ukrainian. Raw draft.
+
 ### Websites and blogs
 
 - [Geoportal of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/ua/home) - офіційний Геопортал адміністративно-територіального устрою України.
