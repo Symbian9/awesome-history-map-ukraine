@@ -45,6 +45,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [4g_ua](https://github.com/OperKH/4g_ua) - 3G and 4G base stations in Ukraine.
   - [3g_ua](https://github.com/OperKH/3g_ua) - project that shows how many 3G base stations in Ukraine.
     - [3g_ua](http://3g.19min.com) (demonstration site)
+- [Rename.kr.ua](http://rename.kr.ua/) - Нові назви вулиць в м.Кропивницкий  (до 2015 року - м.Кіровоград).
+  - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
 
 ### World Maps in Ukrainian
 - [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
