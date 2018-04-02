@@ -83,7 +83,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ## Conferences and meetings
 
 - **2018** 
- - [workshop2018](https://github.com/djhurio/workshop2018) - website for the Workshop of Baltic-Nordic-Ukrainian Network on Survey Statistics 2018.
+  - [workshop2018](https://github.com/djhurio/workshop2018) - website for the Workshop of Baltic-Nordic-Ukrainian Network on Survey Statistics 2018.
 
 ## Publications
 
