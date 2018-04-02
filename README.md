@@ -54,6 +54,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
 - [births](https://github.com/andriy-gazin/births) - births by month in Ukraine, 1980-2014.
 - [marriages](https://github.com/andriy-gazin/marriages) - mean & median age of first marriage in Ukraine by region and sex.
+- [POI_Ukraine](https://github.com/pasharm/POI_Ukraine) - Tagging preset for Ukrainian shops and amenities for *JOSM*.
 
 ### World Maps in Ukrainian
 - [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
@@ -133,6 +134,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 - [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   - [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
+- [Rozklad.in.ua](https://github.com/hoptoa/Rozklad.in.ua) - The schedule of passenger transport in Ukraine.
 - [cities-translator](https://github.com/KostiantynM/cities-translator) - translate Ukraine places DB (regions, districts, cities).
 - [UkraineMap](https://github.com/dimonchik-com/UkraineMap) - Ukraine map create with help Adobe Flash.
 - [Map-ULAF](https://github.com/Woodyss/Map-ULAF) -  Map with the Ukrainian teams in American Football for ULAF.
@@ -148,7 +150,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [ukraine-identification-number](https://github.com/iiifx-production/ukraine-identification-number) - ідентифікаційний номер платника податків України. Парсер і генератор ІНПП.
 - [translit-ua](https://github.com/dchaplinsky/translit-ua) - Transliteration for ukrainian language that uses officialy approved rules 
 - [RadioInUA](https://github.com/DmytroRybalko/RadioInUA) - Analysis of radio stations playlists in Ukraine.
-- [uaddresses.web](https://github.com/edenlabllc/uaddresses.web) - Admin portal of UAddresses. 
+- [uaddresses.web](https://github.com/edenlabllc/uaddresses.web) - Admin portal of UAddresses.
+- [ua-proxy-list](https://github.com/Psykukumber/ua-proxy-list) - List of sites that blocked in Ukraine.
 
 ***
 
