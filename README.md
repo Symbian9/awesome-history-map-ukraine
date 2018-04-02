@@ -55,6 +55,10 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [births](https://github.com/andriy-gazin/births) - births by month in Ukraine, 1980-2014.
 - [marriages](https://github.com/andriy-gazin/marriages) - mean & median age of first marriage in Ukraine by region and sex.
 - [POI_Ukraine](https://github.com/pasharm/POI_Ukraine) - Tagging preset for Ukrainian shops and amenities for *JOSM*.
+- [UkraineCities](https://github.com/rlazoryshchak/UkraineCities) - List of Ukraine raions.
+- [novaposhtasettlements](https://github.com/andriy063/novaposhtasettlements) - Ukrainian settlements database.
+- [Privatization-in-Ukraine.-1992-2015](https://github.com/i2alex/Privatization-in-Ukraine.-1992-2015) - Аналіз результатів приватизаційних процесів в Україні за період 1992-2015 років.
+- [reach-ukr-web-maps](https://github.com/impact-initiatives/reach-ukr-web-maps) - Online interactive map displaying educational facilities in Donbas region of Ukraine.
 
 ### World Maps in Ukrainian
 - [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
@@ -71,6 +75,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [ATO-progress](http://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine (source: http://rnbo.gov.ua/ )
 - [ato-map](https://github.com/xainse/ato-map) - Gallery of ATO from Ukrainian RNBO (source: http://www.rnbo.gov.ua/ )
   - [Live site](http://ato-map.xain.in.ua/)
+- [Ukraine](https://github.com/ArseneFaivre/Ukraine) - Google Earth shows russian invasion of Ukraine.
 
 ***
 
@@ -134,6 +139,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 - [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   - [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
+- [geographer-uk](https://github.com/MenaraSolutions/geographer-uk) - Ukrainian translations for *Geographer* library.
+- [regions_module](https://github.com/BadTrap/regions_module) - Geolocation searching for Ukrainian places.
 - [Rozklad.in.ua](https://github.com/hoptoa/Rozklad.in.ua) - The schedule of passenger transport in Ukraine.
 - [cities-translator](https://github.com/KostiantynM/cities-translator) - translate Ukraine places DB (regions, districts, cities).
 - [UkraineMap](https://github.com/dimonchik-com/UkraineMap) - Ukraine map create with help Adobe Flash.
@@ -146,12 +153,15 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 - [x] [made-in-ukraine](https://github.com/IonicaBizau/made-in-ukraine) - a list of neat projects made in Ukraine (programming)
 - [x] [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
+- [x] [awesome-ukrainian-translations](https://github.com/ror6ax/awesome-ukrainian-translations) - List of books, articles or other materials translated into Ukrainian language.
 - [Ukraine-infosec-conferences](https://github.com/sapran/Ukraine-infosec-conferences) - Анонси, програми та архів матеріалів українських конференцій з кібер-безпеки.
 - [ukraine-identification-number](https://github.com/iiifx-production/ukraine-identification-number) - ідентифікаційний номер платника податків України. Парсер і генератор ІНПП.
-- [translit-ua](https://github.com/dchaplinsky/translit-ua) - Transliteration for ukrainian language that uses officialy approved rules 
+- [translit-ua](https://github.com/dchaplinsky/translit-ua) - Transliteration for ukrainian language that uses officialy approved rules.
+- [PDD](https://github.com/boberproduction/PDR) - Ukrainian Road Rules for Android.
 - [RadioInUA](https://github.com/DmytroRybalko/RadioInUA) - Analysis of radio stations playlists in Ukraine.
 - [uaddresses.web](https://github.com/edenlabllc/uaddresses.web) - Admin portal of UAddresses.
 - [ua-proxy-list](https://github.com/Psykukumber/ua-proxy-list) - List of sites that blocked in Ukraine.
+- [Ukraine](https://github.com/rostag/Ukraine) - Virtual Model of Ukraine minus Corruption.
 
 ***
 
