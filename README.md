@@ -13,7 +13,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ## Table of Contents
 - [Maps of Ukraine](#maps-of-ukraine)
   - [General maps of Ukraine](#general-maps-of-ukraine)
-  - [GIS Data of Ukraine](#gis-data-of-ukraine)
+  - [GIS and other Data of Ukraine](#gis-and-other-data-of-ukraine)
   - [World maps in Ukrainian](#world-maps-in-ukrainian)
 - [Ukrainian mappers](#ukrainian-mappers)
 - [Conferences and meetings](#conferences-and-meetings)
@@ -41,7 +41,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Map with visa-free countries for ukrainians](http://travel-away.pp.ua/) - Безвізові країни для українців
   - [travel-from-ukraine](https://github.com/s0ph1e/travel-from-ukraine) - source repository; base map from Google, data from Ministry of Foreign Affairs of Ukraine.
 
-### GIS Data of Ukraine
+### GIS and other Data of Ukraine
 
 - [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
 - [Entering Foreign Countries - Ministry of Foreign Affairs of Ukraine](http://mfa.gov.ua/ua/consular-affairs/travel-advice/entering-foreign-countries) - Режим в'їзду до іноземних країн для громадян України - МЗС України.
@@ -50,6 +50,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
     - [3g_ua](http://3g.19min.com) (demonstration site)
 - [Rename.kr.ua](http://rename.kr.ua/) - Нові назви вулиць в м.Кропивницкий  (до 2015 року - м.Кіровоград).
   - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
+- [births](https://github.com/andriy-gazin/births) - Births by month in Ukraine, 1980-2014.
 
 ### World Maps in Ukrainian
 - [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
