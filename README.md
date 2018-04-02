@@ -22,12 +22,15 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### General maps of Ukraine
 
-- [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
+- [Map of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/en/karta) - official (in English)
+  - [Карта адміністративно-територіального устрою України](http://atu.minregion.gov.ua/ua/karta) - офіційна (in Ukrainian) 
+- [Public cadastral map](http://map.land.gov.ua/kadastrova-karta) - Публічна кадастрова карта України. Відомості та витяги про земельні ділянки.
 - [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city (captal of Ukraine) expansion.
   - [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
 
 ### GIS Data of Ukraine
 
+- [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
 - [4g_ua](https://github.com/OperKH/4g_ua) - 3G and 4G base stations in Ukraine.
   - [3g_ua](https://github.com/OperKH/3g_ua) - project that shows how many 3G base stations in Ukraine.
     - [3g_ua](http://3g.19min.com) (demonstration site)
@@ -65,13 +68,28 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-## Websites and blogs
+### Conferences and meetings
 
+- [workshop2018](https://github.com/djhurio/workshop2018) - website for the Workshop of Baltic-Nordic-Ukrainian Network on Survey Statistics 2018.
+
+### Publications, magazines and journals
+
+- ["Де починаються і закінчуються населені пункти", 2018-03-14](http://brdo.com.ua/news/de-pochynayutsya-zakinchuyutsya-naseleni-punkty/) - Офіс ефективного регулювання.
+
+### Websites and blogs
+
+- [Geoportal of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/ua/home) - офіційний Геопортал адміністративно-територіального устрою України.
+- [Geoportal "Hromada"](https://otg.land.gov.ua/) - офіційний Геопортал "Громада" присвячений тематиці ОТГ (окрема територіальна громада).
 - [50° North](http://50northspatial.org) - GIS blog from Ukraine
+- [GeoVector]()
 - [OSGeo Lab Ukraine](http://lab.osgeo.org.ua) - Дослідницько-освітня лабораторія OSGeo КНУ
   - [OSGeo Lab Ukraine @ Facebook](http://facebook.com/lab.osgeo.ua/)
 - [KartSothya](http://kartsotnya.com.ua) - ГО "Картографічна сотня"
-
+- [MadeInUkraine.org](https://madeinua.org/) - Зроблено в Україні, каталог українських виробників.
+  - [MadeInUkraine.org/Catalog](https://madeinua.org/catalog/) - Каталог українських виробників споживчих товарів.
+- *sdelanoVukraine* - news about all Made in Ukraine (ukr. Зроблено в Україні).
+  - [Зроблено в Україні @ Twitter](https://twitter.com/sdelanoVukraine)
+  - [Зроблено в Україні @ Facebook](https://www.facebook.com/sdelanoVukraine/)
 ***
 
 ## GIS and other mapping software
