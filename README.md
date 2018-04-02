@@ -15,7 +15,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ## Table of Contents
 - [Maps of Ukraine](#maps-of-ukraine)
   - [General maps of Ukraine](#general-maps-of-ukraine)
-  - [GIS and other Data of Ukraine](#gis-and-other-data-of-ukraine)
+  - [Other Maps and Data of Ukraine](#other-maps-and-data-of-ukraine)
   - [World maps in Ukrainian](#world-maps-in-ukrainian)
 - [Ukrainian mappers](#ukrainian-mappers)
 - [Conferences and meetings](#conferences-and-meetings)
@@ -38,20 +38,17 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [State Classifier of objects of administrative and territorial structure of Ukraine (KOATUU)](http://www.ukrstat.gov.ua/klasf/st_kls_2016.htm) - Державний класифікатор об'єктів адміністративно-територіального устрою України (КОАТУУ)
   - [KOATUU.zip](http://www.ukrstat.gov.ua/klasf/st_kls/koatuu.zip) - official raw data.
   - [koatuu](https://github.com/sokil/koatuu) - Конвертор бази класифікатора КОАТУУ в SQL.
-- [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city (captal of Ukraine) expansion.
-  - [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
-- [Map with visa-free countries for ukrainians](http://travel-away.pp.ua/) - Безвізові країни для українців
-  - [travel-from-ukraine](https://github.com/s0ph1e/travel-from-ukraine) - source repository; base map from Google, data from Ministry of Foreign Affairs of Ukraine.
 
-### GIS and other Data of Ukraine
+
+### Other Maps and Data of Ukraine
 
 - [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
 - [Entering Foreign Countries - Ministry of Foreign Affairs of Ukraine](http://mfa.gov.ua/ua/consular-affairs/travel-advice/entering-foreign-countries) - Режим в'їзду до іноземних країн для громадян України - МЗС України.
 - [4g_ua](https://github.com/OperKH/4g_ua) - 3G and 4G base stations in Ukraine.
   - [3g_ua](https://github.com/OperKH/3g_ua) - project that shows how many 3G base stations in Ukraine.
     - [3g_ua](http://3g.19min.com) (demonstration site)
-- [Rename.kr.ua](http://rename.kr.ua/) - Нові назви вулиць в м.Кропивницкий  (до 2015 року - м.Кіровоград).
-  - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
+- [Code and data for visualisation of flight treaties and given rights for Ukrainian airlines]
+- [Population_visual](https://github.com/nadiia-pyvovar/Population_visual) - Visualization of population in Ukraine using *bokeh* and *plotly*.
 - [births](https://github.com/andriy-gazin/births) - births by month in Ukraine, 1980-2014.
 - [marriages](https://github.com/andriy-gazin/marriages) - mean & median age of first marriage in Ukraine by region and sex.
 - [POI_Ukraine](https://github.com/pasharm/POI_Ukraine) - Tagging preset for Ukrainian shops and amenities for *JOSM*.
@@ -60,25 +57,43 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [ukrainian-addresses](https://github.com/RomixUA/ukrainian-addresses) - Provided Ukrainian addresses
   - [Ukrainian Addresses](https://ukrposhta.ua/dovidnik-poshtovix-adre/opis) - official source (from "UkrPoshta")
 - [Privatization-in-Ukraine.-1992-2015](https://github.com/i2alex/Privatization-in-Ukraine.-1992-2015) - Аналіз результатів приватизаційних процесів в Україні за період 1992-2015 років.
+- [regions_module](https://github.com/BadTrap/regions_module) - Geolocation searching for Ukrainian places.
+- [Rozklad.in.ua](https://github.com/hoptoa/Rozklad.in.ua) - The schedule of passenger transport in Ukraine.
+- [cities-translator](https://github.com/KostiantynM/cities-translator) - translate Ukraine places DB (regions, districts, cities).
+- [UkraineMap](https://github.com/dimonchik-com/UkraineMap) - Ukraine map create with help Adobe Flash.
+- [Map-ULAF](https://github.com/Woodyss/Map-ULAF) -  Map with the Ukrainian teams in American Football for ULAF.
+- [findlostanimals](https://github.com/nVitaliy/findlostanimals) - project for finding lost animals in Ukraine.
 - [reach-ukr-web-maps](https://github.com/impact-initiatives/reach-ukr-web-maps) - Online interactive map displaying educational facilities in Donbas region of Ukraine.
 - [Gas-flow-standards](https://github.com/slavkoBV/Gas-flow-standards) - Data base of gas flow standards of Ukraine 
 
-### World Maps in Ukrainian
-- [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
+#### Maps and Data of cities of Ukraine
 
-### Euromaidan (21 November 2013 — 22 February 2014)
+- ***Kyiv*** (capital of Ukraine)
+  - [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city expansion.
+    - [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
+- *Kropyvnyckiy*
+  - [Rename.kr.ua](http://rename.kr.ua/) - Нові назви вулиць в м.Кропивницкий  (до 2015 року - м.Кіровоград).
+    - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
+
+#### Euromaidan (21 November 2013 — 22 February 2014)
 
 - [Three days before spring](http://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda.org).
 - [protest-network-UA](https://github.com/DukachY/protest-network-UA) - Network analysis of protest co-participation in Ukraine, 2011-2013.
 - [LaSNe](https://github.com/christaina/LaSNe) - Visualizing social networks on Twitter of the beginning of the Ukraine crisis
   - [LaSNe](https://christaina.github.io/LaSNe/) - (visualization)
 
-### ATO (2014 - ...)
+#### ATO (2014 - ...)  - intervention of Russian Federation in Ukraine
 
 - [ATO-progress](http://github.com/yurikoval/ATO-progress) - Generate gifs from images provided by National Security and Defense Council of Ukraine on the situation in Eastern Ukraine (source: http://rnbo.gov.ua/ )
 - [ato-map](https://github.com/xainse/ato-map) - Gallery of ATO from Ukrainian RNBO (source: http://www.rnbo.gov.ua/ )
   - [Live site](http://ato-map.xain.in.ua/)
 - [Ukraine](https://github.com/ArseneFaivre/Ukraine) - Google Earth shows russian invasion of Ukraine.
+
+### World Maps in Ukrainian
+
+- [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
+- [Map with visa-free countries for ukrainians](http://travel-away.pp.ua/) - Безвізові країни для українців
+  - [travel-from-ukraine](https://github.com/s0ph1e/travel-from-ukraine) - source repository; base map from Google, data from Ministry of Foreign Affairs of Ukraine.
 
 ***
 
@@ -143,12 +158,6 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   - [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
 - [geographer-uk](https://github.com/MenaraSolutions/geographer-uk) - Ukrainian translations for *Geographer* library.
-- [regions_module](https://github.com/BadTrap/regions_module) - Geolocation searching for Ukrainian places.
-- [Rozklad.in.ua](https://github.com/hoptoa/Rozklad.in.ua) - The schedule of passenger transport in Ukraine.
-- [cities-translator](https://github.com/KostiantynM/cities-translator) - translate Ukraine places DB (regions, districts, cities).
-- [UkraineMap](https://github.com/dimonchik-com/UkraineMap) - Ukraine map create with help Adobe Flash.
-- [Map-ULAF](https://github.com/Woodyss/Map-ULAF) -  Map with the Ukrainian teams in American Football for ULAF.
-- [findlostanimals](https://github.com/nVitaliy/findlostanimals) - project for finding lost animals in Ukraine.
 - [WeatherForecast](https://github.com/RomanTourdyiev/WeatherForecast) -  WeatherApi demo for Ukraine (AsyncTask + JSON).
 
 ***
