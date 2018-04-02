@@ -27,10 +27,13 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Public cadastral map](http://map.land.gov.ua/kadastrova-karta) - Публічна кадастрова карта України. Відомості та витяги про земельні ділянки.
 - [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city (captal of Ukraine) expansion.
   - [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
+- [Map with visa-free countries for ukrainians](http://travel-away.pp.ua/) - Безвізові країни для українців
+  - https://github.com/s0ph1e/travel-from-ukraine] - source repository; base map from Google, data from Ministry of Foreign Affairs of Ukraine.
 
 ### GIS Data of Ukraine
 
 - [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
+- [Entering Foreign Countries - Ministry of Foreign Affairs of Ukraine](http://mfa.gov.ua/ua/consular-affairs/travel-advice/entering-foreign-countries) - Режим в'їзду до іноземних країн для громадян України - МЗС України.
 - [4g_ua](https://github.com/OperKH/4g_ua) - 3G and 4G base stations in Ukraine.
   - [3g_ua](https://github.com/OperKH/3g_ua) - project that shows how many 3G base stations in Ukraine.
     - [3g_ua](http://3g.19min.com) (demonstration site)
@@ -40,7 +43,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### Euromaidan (21 November 2013 — 22 February 2014)
 
-- [Three days before spring](http://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda)
+- [Three days before spring](http://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda.org).
+- [protest-network-UA](https://github.com/DukachY/protest-network-UA) - Network analysis of protest co-participation in Ukraine, 2011-2013.
 
 ### ATO (2014 - ...)
 
@@ -102,6 +106,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [OpenOrienteering Ukraine @ Facebook](http://facebook.com/OpenOrienteeringUkraine)
 - [QGIS](http://qgis.org) - a free and open-source Geographic Information System.
   - [QGIS Ukraine @ Facebook](http://facebook.com/QGIS.UA)
+- [findlostanimals](https://github.com/nVitaliy/findlostanimals) - project for finding lost animals in Ukraine.
 
 ***
 
@@ -110,6 +115,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 - [awesome-ukraine](https://github.com/yavorsky/awesome-ukraine) - a curated list of things that show the awesome side of Ukraine.
 - [Ukraine-infosec-conferences](https://github.com/sapran/Ukraine-infosec-conferences) - Анонси, програми та архів матеріалів українських конференцій з кібер-безпеки.
+- [ukraine-identification-number](https://github.com/iiifx-production/ukraine-identification-number) - ідентифікаційний номер платника податків України. Парсер і генератор ІНПП.
+- [RadioInUA](https://github.com/DmytroRybalko/RadioInUA) - Analysis of radio stations playlists in Ukraine.
 
 ***
 
