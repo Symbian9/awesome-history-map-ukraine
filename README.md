@@ -30,7 +30,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ## Maps of Ukraine
 
-### General maps of Ukraine
+### General Maps of Ukraine
 
 - [Map of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/en/karta) - official (in English)
   - [Карта адміністративно-територіального устрою України](http://atu.minregion.gov.ua/ua/karta) - офіційна (in Ukrainian) 
@@ -47,7 +47,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [4g_ua](https://github.com/OperKH/4g_ua) - 3G and 4G base stations in Ukraine.
   - [3g_ua](https://github.com/OperKH/3g_ua) - project that shows how many 3G base stations in Ukraine.
     - [3g_ua](http://3g.19min.com) (demonstration site)
-- [Code and data for visualisation of flight treaties and given rights for Ukrainian airlines]
+- [avia](https://github.com/NadiaRom/avia) - Code and data for visualisation of flight treaties and given rights for Ukrainian airlines.
 - [Population_visual](https://github.com/nadiia-pyvovar/Population_visual) - Visualization of population in Ukraine using *bokeh* and *plotly*.
 - [births](https://github.com/andriy-gazin/births) - births by month in Ukraine, 1980-2014.
 - [marriages](https://github.com/andriy-gazin/marriages) - mean & median age of first marriage in Ukraine by region and sex.
