@@ -16,13 +16,13 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - [Maps of Ukraine](#maps-of-ukraine)
   - [General maps of Ukraine](#general-maps-of-ukraine)
   - [Other Maps and Data of Ukraine](#other-maps-and-data-of-ukraine)
-  - [World maps in Ukrainian](#world-maps-in-ukrainian)
+  - [World Maps in Ukrainian](#world-maps-in-ukrainian)
 - [Ukrainian mappers](#ukrainian-mappers)
-- [Conferences and meetings](#conferences-and-meetings)
+- [Conferences and Meetings](#conferences-and-meetings)
 - [Publications](#publications)
-- [Books and journals](#books-and-journals)
-- [Websites and blogs](#websites-and-blogs)
-- [GIS and other mapping software](#gis-and-other-mapping-software)
+- [Books and Journals](#books-and-journals)
+- [Websites and Blogs](#websites-and-blogs)
+- [GIS and Mapping Software](#gis-and-mapping-software)
 - [REFERENCES](#references)
 - [LICENSE](#license)
 
@@ -115,7 +115,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-## Conferences and meetings
+## Conferences and Meetings
 
 - **2018** 
   - [workshop2018](https://github.com/djhurio/workshop2018) - website for the Workshop of Baltic-Nordic-Ukrainian Network on Survey Statistics 2018.
@@ -125,11 +125,11 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - **2018**
   - ["Де починаються і закінчуються населені пункти"](http://brdo.com.ua/news/de-pochynayutsya-zakinchuyutsya-naseleni-punkty/) - [Офіс ефективного регулювання](http://brdo.com.ua).
 
-## Books and journals
+## Books and Journals
 
 - [DataAnalysisBook](https://github.com/energyfirefox/DataAnalysisBook) - Practical data analysis book. Language: Ukrainian. Raw draft.
 
-## Websites and blogs
+## Websites and Blogs
 
 - [Geoportal of administrative-territorial system of Ukraine](http://atu.minregion.gov.ua/ua/home) - офіційний Геопортал адміністративно-територіального устрою України.
 - [Geoportal "Hromada"](https://otg.land.gov.ua/) - офіційний Геопортал "Громада" присвячений тематиці ОТГ (окрема територіальна громада).
@@ -146,7 +146,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ***
 
-## GIS and other Mapping Software
+## GIS and Mapping Software
 
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - a curated list of GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 - [OpenStreetMap](http://openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
