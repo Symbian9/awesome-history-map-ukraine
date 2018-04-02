@@ -2,7 +2,7 @@
 
 ***
 
-# awesome-maps-ukraine
+# awesome-maps-ukraine 🇺🇦
 
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop for creating and publish maps.
 
@@ -19,6 +19,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ### General maps of Ukraine
 
 * [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
+* [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) Kyiv city (captal of Ukraine)
+  * [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
 
 ### Maps in Ukrainian
 * [OpenMapTiles](https://openmaptiles.org/languages/uk/#1.38/0/0) - World map with labels in Ukrainian.
