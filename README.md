@@ -19,7 +19,8 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ### General maps of Ukraine
 
 * [ukraine_map_data](http://github.com/vsapsai/ukraine_map_data) - Ukraine map data suitable for D3.js visualizations.
-* [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) Kyiv city (captal of Ukraine)
+* [4g_ua](https://github.com/OperKH/4g_ua) - 3G and 4G base stations in Ukraine.
+* [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city (captal of Ukraine) expansion.
   * [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
 
 ### Maps in Ukrainian
