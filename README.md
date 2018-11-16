@@ -6,7 +6,7 @@
 
 A curated list of maps of Ukraine, ukrainian mappers and tools that they use or develop for creating and publish maps.
 
-## DONATE!
+## DONATE, please! ;-)
 
 **Bitcoin wallet (BTC)**
 
@@ -15,6 +15,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 ## Table of Contents
 - [Maps of Ukraine](#maps-of-ukraine)
   - [General maps of Ukraine](#general-maps-of-ukraine)
+  - [Naming of Ukrainian cities and geographical places](#naming-of-ukrainian-cities-and-geographical-places)
   - [Other Maps and Data of Ukraine](#other-maps-and-data-of-ukraine)
   - [World Maps in Ukrainian](#world-maps-in-ukrainian)
 - [Ukrainian mappers](#ukrainian-mappers)
@@ -39,6 +40,12 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [KOATUU.zip](http://www.ukrstat.gov.ua/klasf/st_kls/koatuu.zip) - official raw data.
   - [koatuu](https://github.com/sokil/koatuu) - Конвертор бази класифікатора КОАТУУ в SQL.
 
+
+### Naming of Ukrainian cities and geographical places
+
+- [#KyivNotKiev] (`#CorrectUA` campaign) - Official guidance on the correct spelling and usage of Ukrainian place names. Part of  campaign.
+  - [KyivNotKiev](https://mfa.gov.ua/ua/page/open/id/5418) - #CorrectUA – МЗС України звертається до світу – вживай #KyivNotKiev
+![#KyivNotKiev cover](https://mfa.gov.ua/mediafiles/images/2018-10-01_Kyi_logo.jpg)
 
 ### Other Maps and Data of Ukraine
 
