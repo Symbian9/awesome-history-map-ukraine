@@ -43,9 +43,9 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 
 ### Naming of Ukrainian cities and geographical places
 
-- [#KyivNotKiev] (`#CorrectUA` campaign) - Official guidance on the correct spelling and usage of Ukrainian place names. Part of  campaign.
-  - [KyivNotKiev](https://mfa.gov.ua/ua/page/open/id/5418) - #CorrectUA – МЗС України звертається до світу – вживай #KyivNotKiev
-![#KyivNotKiev cover](https://mfa.gov.ua/mediafiles/images/2018-10-01_Kyi_logo.jpg)
+- [#KyivNotKiev](https://mfa.gov.ua/en/page/open/id/5418) (`#CorrectUA` campaign) - Official guidance on the correct spelling and usage of Ukrainian place names. Part of  campaign.
+  - [KyivNotKiev](https://mfa.gov.ua/ua/page/open/id/5418) (кампанія `#CorrectUA`) – МЗС України звертається до світу – вживай #KyivNotKiev
+  - ![#KyivNotKiev cover](https://mfa.gov.ua/mediafiles/images/2018-10-01_Kyi_logo.jpg)
 
 ### Other Maps and Data of Ukraine
 
