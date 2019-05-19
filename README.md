@@ -78,16 +78,55 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
 - ***Kyiv*** (capital of Ukraine)
   - [Generel plan of Kyiv'2025](http://kga.gov.ua/generalnij-plan/genplan2025) - official governmental project on developing general plan (map) of Kyiv city expansion.
     - [Dicscussion "Generel plan of Kyiv'2025"](http://kga.gov.ua/obgovorennya-generalnogo-planu-mista-kieva) - official explanation on who and how can discuss this project
-- *Kropyvnyckiy*
+  - [Kyiv Coworking Map](https://github.com/veelenga/kyiv-coworking-map) - map of coworking placed in Kyiv.
+    - [Live site](https://veelenga.github.io/kyiv-coworking-map/)
+  - [Map-Tube-Kiev](https://github.com/tupinek/Map-Tube-Kiev) - interface to the Kyiv Metro Map.
+  - [KyivMetroGit](https://github.com/hotsyk/kyivmetro) - Kyiv metro map as git tree.
+  - [kremap](https://github.com/borzun/kremap) - Kyiv Real Estate Map python script for home usage.
+- *Dnipro* (city)
+  - [dnipro-map](https://github.com/dmitry-udod/dnipro-map) - Відкрита мапа Дніпра та області (Open map of the Dnipro city and the region).
+  - [RenameDniproStreets](https://github.com/Den-Rimus/RenameDniproStreets) - map data from http://rename.dp.ua/ website to a decent Android application.
+  - [Map-Tube-Dnipropetrovsk](https://github.com/tupinek/Map-Tube-Dnipropetrovsk) - interface to the Dnipro Metro Map.
+    - [Map-Tube-Dnipropetrovsk](https://github.com/gitpan/Map-Tube-Dnipropetrovsk) - read-only release history for Map-Tube-Dnipropetrovsk.
+- *Zhytomyr* (city)
+  - [ZTmapdirection](https://github.com/Podkur/ZTmapdirection) - this project contain map of the city Zhytomyr, it used Google Maps API.
+- *Ivano-Frankivsk* (city)
+  - [bus-detector](https://github.com/softjourn-internship/bus-detector) - this project will show current location of buses in Ivano-Frankivsk on the map.
+- *Kharkiv* (city)
+  - [Map-Tube-Kharkiv](https://github.com/tupinek/Map-Tube-Kharkiv) - interface to the Kharkiv Metro Map.
+    - [Map-Tube-Kharkiv](https://github.com/gitpan/Map-Tube-Kharkiv) - Read-only release history for Map-Tube-Kharkiv.
+  - [transport-routes](https://github.com/annamiy/transport-routes) - transport routes of Kharkiv city, Ukraine. Build with Play!, Tomcat and Google maps API.
+- *Kremenchuk* (city)
+  - [kremen-equipment](https://github.com/snipter/kremen-equipment) - interactive map of the Kremenchuk's equipment.
+- *Kropyvnyckiy* (city)
   - [Rename.kr.ua](http://rename.kr.ua/) - Нові назви вулиць в м.Кропивницкий  (до 2015 року - м.Кіровоград).
     - [rename.kr.ua](https://github.com/Onix-Systems/rename.kr.ua) - source repository.
+- *Lviv* (city)
+  - [lviv_criminal_map](https://github.com/tsdaemon/lviv_criminal_map) - visualization of criminal cases on Lviv map.
+  - [LvivBanks](https://github.com/Nescafe32/LvivBanks) - interactive map of banks and ATMs in Lviv.
+  - [BusMapVisualization](https://github.com/legator/BusMapVisualization) - Web client for Bus GPS data (Lviv).
+  - [LvivBicycleMap](https://github.com/Alokym/LvivBicycleMap) - client/server software.
+  - [LvivBikeMap](https://github.com/yurabreza/LvivBikeMap) - Android app written in Kotlin.
+- *Poltava* (city)
+  - [poltava](https://github.com/seagreensoul/poltava) - map of illumination.
+- *Rivne* (city)
+  - [rivnefish](https://github.com/rivnefish/rivnefish) - мапа рибних місць.
+- *Vinnytsia* (city)
+  - [school-n27-sportmap](https://github.com/yevhenmazur/school-n27-sportmap) - sport (orienteering) map of Grammar School #27 in Vinnytsia, Ukraine.
+
+- **Towns / Villages**
+  - [kp-park](https://github.com/vtararin/kp-park) - спортивна мапа *Кам'янець-Подільського* центрального парку.
+    - [kp-park](https://github.com/yevhenmazur/kp-park) - виправлена спортивна мапа *Кам'янець-Подільського* центрального парку.
 
 #### Euromaidan (21 November 2013 — 22 February 2014)
 
 - [Three days before spring](http://github.com/yarynam/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine (published by TEXTY.ORG.UA and RadioSvoboda.org).
+  - [maidan_maps](https://github.com/oksymets/maidan_maps) - detailed chronology of the Euromaidan revolution in Ukraine.
+  - [maidan_maps_eng](https://github.com/YevhDr/maidan_maps_eng)
 - [protest-network-UA](https://github.com/DukachY/protest-network-UA) - Network analysis of protest co-participation in Ukraine, 2011-2013.
 - [LaSNe](https://github.com/christaina/LaSNe) - Visualizing social networks on Twitter of the beginning of the Ukraine crisis
   - [LaSNe](https://christaina.github.io/LaSNe/) - (visualization)
+- [kipyatok](https://github.com/hochunamaydan/kipyatok) - Жива мапа місць біля `#Євромайдану` де є кип'яток, кофе, чай, wi-fi.
 
 #### ATO (2014 - ...)  - intervention of Russian Federation in Ukraine
 
