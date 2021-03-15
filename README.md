@@ -55,7 +55,7 @@ A curated list of maps of Ukraine, ukrainian mappers and tools that they use or 
   - [3g_ua](https://github.com/OperKH/3g_ua) - project that shows how many 3G base stations in Ukraine.
     - [3g_ua](http://3g.19min.com) (demonstration site)
 - [avia](https://github.com/NadiaRom/avia) - Code and data for visualisation of flight treaties and given rights for Ukrainian airlines.
-- [Population_visual](https://github.com/nadiia-pyvovar/Population_visual) - Visualization of population in Ukraine using *bokeh* and *plotly*.
+- [Population_visual](https://github.com/nadiia-pyvovar/Population_visual) - Visualization of population in Ukraine using *bokeh* and *plotly*. (DEAD)
 - [births](https://github.com/andriy-gazin/births) - births by month in Ukraine, 1980-2014.
 - [marriages](https://github.com/andriy-gazin/marriages) - mean & median age of first marriage in Ukraine by region and sex.
 - [POI_Ukraine](https://github.com/pasharm/POI_Ukraine) - Tagging preset for Ukrainian shops and amenities for *JOSM*.
